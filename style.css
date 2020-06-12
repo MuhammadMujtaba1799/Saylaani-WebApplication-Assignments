@@ -1,0 +1,54 @@
+.navbar-brand img{
+    width: auto;
+    height: 70px;
+}
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    height: 50px;
+}
+.Carousel1{
+    width: 100%;
+    height: 100%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.slogan{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main{
+    background-color: #f4f4f4;
+    width: 100%;
+    min-height: calc(100vh - 96px - 232px);
+}
+.row1{
+    background-color: white;
+}
+.card>img{
+    size: 50%;
+}
+/* .row{
+    display: inline;
+} */
+.img{
+    width: auto;
+    height:auto;
+}
+.row2>img:hover{
+    border-radius: 2px;
+    border:2px solid greenyellow;
+}
+.row2{
+    text-align: center;
+}
+.rrow>p{
+    font-size: smaller;
+}
+.row5>ul{
+        color:grey ;
+}
+.last_container{
+    
+    width: 100%;
+    color: #aaaa9a;
+}
